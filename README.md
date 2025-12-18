@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Cleo, I"m a third year computer science student based in the UK.
+
+I love programming and have plenty of private projects but I plan to work on some public ones to demonstrate my skills when I have some free time, likely over the summer.
+
 <!--
 **cleo-r/cleo-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
