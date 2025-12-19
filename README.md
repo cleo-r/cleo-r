@@ -11,7 +11,6 @@ I have experience in the following programming languages:
   <li>Python</li>
   <li>Java</li>
   <li>C/C++</li>
-  <li>Haskell</li>
   <li>Javascript</li>
   <li>Lua</li>
 </ul>
