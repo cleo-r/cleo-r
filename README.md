@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Cleo, I"m a third year computer science student based in the UK.
+I'm Cleo, I'm a third year computer science student based in the UK.
 
 I love programming and have plenty of private projects and I plan to work on some public ones to demonstrate my skills when I have some free time, likely over the summer.
 
